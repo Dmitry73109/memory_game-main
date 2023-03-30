@@ -63,7 +63,7 @@ backface-visibility: hidden;
 .player1,
 .player2{
 background-color: grey;
-border-radius: 10px;
+border-radius: 11px;
 }
 .player1.selected,
 .player2.selected{
